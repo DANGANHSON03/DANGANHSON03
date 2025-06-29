@@ -1,6 +1,6 @@
 <!-- Dynamic Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi,%20I'm%20[Your%20Name]!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi,%20I'm%20DANGANHSON03!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Typing Animation -->
@@ -10,8 +10,8 @@
 
 <!-- Profile Views & Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=58A6FF&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DANGANHSON03&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DANGANHSON03?style=for-the-badge&color=58A6FF&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
 </div>
 
 <br>
@@ -32,7 +32,7 @@
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       </td>
       <td>
-        <strong>Currently Working On:</strong> [Your Project/Company]
+        <strong>Currently Working On:</strong> HomeService – A home service booking system including Web, Mobile App, and Admin Dashboard.
       </td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
         <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
       </td>
       <td>
-        <strong>Learning:</strong> [Current Tech Stack]
+        <strong>Learning:</strong> Expanding my skills in web and mobile development, currently focusing on ReactJS and React Native, along with improving backend integration and deployment.
       </td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@
         <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
       </td>
       <td>
-        <strong>Ask Me About:</strong> [Your Expertise Areas]
+        <strong>Ask Me About:</strong> ReactJS, Spring Boot, Laravel, integrated REST APIs, Google Sheets Automation, and deployed the system in a real-world environment.
       </td>
     </tr>
     <tr>
@@ -56,12 +56,11 @@
         <img src="https://media.giphy.com/media/J4B6E6CODjYo4/giphy.gif" width="30">
       </td>
       <td>
-        <strong>Fun Fact:</strong> [Something Interesting About You]
+        <strong>Fun Fact:</strong> Built a complete wardrobe and hotel website for Anstay from scratch – both frontend and backend!
       </td>
     </tr>
   </table>
 </div>
-
 <br>
 
 <!-- Tech Stack -->
@@ -237,22 +236,22 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DANGANHSON03&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANGANHSON03&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANGANHSON03&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANGANHSON03&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <br>
@@ -260,7 +259,7 @@
 <!-- Trophies -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DANGANHSON03&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -278,24 +277,24 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/yourusername/project-name">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=github_dark&hide_border=true" alt="Project 1" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DANGANHSON03&repo=Anstay&theme=github_dark&hide_border=true" alt="Project 1" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/yourusername/another-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=github_dark&hide_border=true" alt="Project 2" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DANGANHSON03&repo=AnstayAdmin&theme=github_dark&hide_border=true" alt="Project 2" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/yourusername/third-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=third-project&theme=github_dark&hide_border=true" alt="Project 3" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=T2404EDOAN&repo=carriomotors&theme=github_dark&hide_border=true" alt="Project 3" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/yourusername/fourth-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=fourth-project&theme=github_dark&hide_border=true" alt="Project 4" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DANGANHSON03&repo=dbAnstay&theme=github_dark&hide_border=true" alt="Project 4" />
         </a>
       </td>
     </tr>
@@ -313,19 +312,19 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.facebook.com/sonmonkey2003">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://linkedin.com/in/danganhson03">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:anhson22062003xxx@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://zalo.me/0393526195">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg/yourinvite">
+  <a href="https://discord.com/users/556808953942769676">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
@@ -335,7 +334,7 @@
 <!-- Contribution Snake -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DANGANHSON03/DANGANHSON03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -348,10 +347,6 @@
 
 <br>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=0" />
-</div>
 
 <div align="center">
   <h3>⭐ Thanks for visiting! ⭐</h3>
