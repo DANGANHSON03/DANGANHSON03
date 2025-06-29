@@ -73,20 +73,154 @@
 </div>
 
 <div align="center">
-  <h3>🌐 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,typescript,tailwind,bootstrap,sass" alt="Frontend Skills" />
   
-  <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,go,java,spring,php,laravel" alt="Backend Skills" />
+  <!-- Frontend Section with Better Styling -->
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br><strong>TypeScript</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br><strong>React</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+        <br><strong>CSS3</strong>
+      </td>
+    </tr>
+  </table>
+
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+    🌐 <strong>Frontend Technologies</strong>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+  </h3>
   
-  <h3>🗄️ Database</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" alt="Database Skills" />
+  <br>
   
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github" alt="Cloud & DevOps Skills" />
+  <!-- Backend Section -->
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br><strong>Python</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+        <br><strong>Node.js</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br><strong>Java</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+        <br><strong>PHP</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
+        <br><strong>Spring Boot</strong>
+      </td>
+    </tr>
+  </table>
+
+  <h3>
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25">
+    ⚙️ <strong>Backend Technologies</strong>
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25">
+  </h3>
   
-  <h3>🛠️ Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,photoshop,linux,bash,vim" alt="Tools" />
+  <br>
+
+  <!-- Mobile Development Section -->
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+        <br><strong>Flutter</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
+        <br><strong>Dart</strong>
+      </td>
+    </tr>
+  </table>
+
+  <h3>
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="25">
+    📱 <strong>Mobile Development</strong>
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="25">
+  </h3>
+  
+  <br>
+  
+  <!-- Database Section -->
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+        <br><strong>Firebase</strong>
+      </td>
+    </tr>
+  </table>
+
+  <h3>
+    <img src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" width="25">
+    🗄️ <strong>Database & Backend Services</strong>
+    <img src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" width="25">
+  </h3>
+  
+  <br>
+  
+  <!-- Tools Section -->
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+        <br><strong>VS Code</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+        <br><strong>Postman</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+        <br><strong>Figma</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+        <br><strong>Linux</strong>
+      </td>
+    </tr>
+  </table>
+
+  <h3>
+    <img src="https://media.giphy.com/media/J4B6E6CODjYo4/giphy.gif" width="25">
+    🛠️ <strong>Development Tools</strong>
+    <img src="https://media.giphy.com/media/J4B6E6CODjYo4/giphy.gif" width="25">
+  </h3>
 </div>
 
 <br>
